@@ -1,0 +1,43 @@
+.portfolio {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    margin-top: 100px
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  h2 {
+    margin-top: 5px;
+    color: #888;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    margin: 0 0 10px;
+  }
+  
+  ul {
+    padding: 0;
+    list-style: none;
+  }
+  
+  a {
+    color: #b79ce9;
+    text-decoration: none;
+  }
+  
+  footer {
+    text-align: center;
+    color: #888;
+    margin-top: 40px;
+  }
